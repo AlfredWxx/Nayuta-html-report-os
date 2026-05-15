@@ -1,0 +1,10 @@
+{
+  "id": "pet-health-observation",
+  "folder_id": "pet-health",
+  "title": "Pet Health Observation Report",
+  "summary": "A calm weekly observation report covering appetite, activity, sleep quality, and follow-up care signals.",
+  "category": "Pet Care",
+  "report_type": "pet-health-report",
+  "updated_at": "2026-05-12",
+  "source_project": "personal-pet-journal"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "project-weekly-summary",
+  "folder_id": "project-ops",
+  "title": "Project Weekly Summary",
+  "summary": "A polished weekly operating summary for priorities, decisions, delivery status, and next actions.",
+  "category": "Operations",
+  "report_type": "general-report",
+  "updated_at": "2026-05-08",
+  "source_project": "personal-ops"
+}

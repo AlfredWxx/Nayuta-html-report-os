@@ -1,0 +1,10 @@
+{
+  "id": "quant-market-regime",
+  "folder_id": "market-research",
+  "title": "Quant Market Regime Report",
+  "summary": "A concise regime snapshot covering trend, volatility, breadth, and risk posture for systematic review.",
+  "category": "Research",
+  "report_type": "quant-research-report",
+  "updated_at": "2026-05-09",
+  "source_project": "market-regime-lab"
+}
