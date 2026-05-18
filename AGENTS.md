@@ -1,3 +1,11 @@
+<!-- SPECKIT START -->
+For additional context about technologies to be used, project structure,
+shell commands, and other important information, read:
+
+specs/001-publish-api-integration/plan.md
+specs/001-publish-api-integration/spec.md
+<!-- SPECKIT END -->
+
 # Project Rules
 
 - The frontend is read-only by default.
